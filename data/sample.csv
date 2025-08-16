@@ -1,0 +1,5 @@
+Name, Age, Income, Gender, Location, Notes
+Tomitha, 29, 55000, Female, New York, "Loves data"
+Tom, , 62000, Male, California, "Missing age"
+Tommy, 35, , Non-binary, Texas, "Missing income"
+Tomiay, 29, 55000, Female, New York, "Duplicate row"
